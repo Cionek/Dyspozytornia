@@ -2,14 +2,14 @@
   "name": "dyspozytornia",
   "private": true,
   "version": "1.0.0",
-  "homepage": "https://twoj-login.github.io/dyspozytornia/",
+  "homepage": "https://cionek.github.io/dyspozytornia/",
   "type": "module",
   "scripts": {
-    "dev": "vite",
-    "build": "vite build",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist"
-  },
+  "dev": "vite",
+  "build": "vite build",
+  "predeploy": "npm run build",
+  "deploy": "gh-pages -d dist"
+},
   "dependencies": {
     "jspdf": "^2.5.2",
     "react": "^19.0.0",
